@@ -1,4 +1,4 @@
-# Bootcamps and Challenges DIO
+# Bootcamps e Challenges DIO
 
 Repositório com os prompts e entregas dos desafios criativos e projetos práticos dos bootcamps da DIO.
 
